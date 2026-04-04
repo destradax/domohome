@@ -1,3 +1,6 @@
 [submodule "domohome-hub-ui-web"]
 	path = domohome-hub-ui-web
 	url = git@github.com:destradax/domohome-hub-ui-web.git
+[submodule "domohome-hub"]
+	path = domohome-hub
+	url = git@github.com:destradax/domohome-hub.git
