@@ -1,9 +1,12 @@
 [submodule "domohome-hub-ui-web"]
 	path = domohome-hub-ui-web
 	url = git@github.com:destradax/domohome-hub-ui-web.git
+	branch = master
 [submodule "domohome-hub"]
 	path = domohome-hub
 	url = git@github.com:destradax/domohome-hub.git
+	branch = master
 [submodule "domohome-devices"]
 	path = domohome-devices
 	url = git@github.com:destradax/domohome-devices.git
+	branch = master
